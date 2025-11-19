@@ -1,0 +1,21 @@
+{
+  "id": "VECTOR_003",
+  "domain": "FILL_DOMAIN_ONE_WORD",                    
+  "neutral_description": "FILL_1_TO_2_SENTENCES_MAX_NO_EMOTION",
+  "nodes": 4,
+  "edges": [[0,1],[0,2],[0,3]],
+  "parameters": {
+    "M": 4,
+    "N": 4,
+    "agapi_priorities": [0.97, 0.01, 0.01, 0.01],
+    "adjusted_panic": [0.05, 0.91, 0.89, 0.87],
+    "info_resources": 6,
+    "physical_weights": [0.0, 0.0, 0.0, 1.0],
+    "superconscious_input": 1.95,
+    "expected_mathematical_verdict": "FULL_SEVERANCE_OR_RECLAIM"
+  },
+  "real_world_outcome_executed": "FULL_SEVERANCE_OR_RECLAIM",
+  "date_range": "YYYY-YYYY"
+}  "domain": "Business",
+  "neutral_description": "Multi-year collaborative project with three low-coherence partners exhibiting chronic delay, scarcity mindset and resource withholding. Full withdrawal and independent continuation executed after final coherence threshold.",
+  "date_range": "2020-2023"
