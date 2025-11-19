@@ -1,0 +1,23 @@
+{
+  "id": "VECTOR_002",
+  "domain": "FILL_THIS_ONE_WORD_ONLY",          // e.g. Relationship / Health / Business / Family / Creative
+  "neutral_description": "FILL_THIS_2_SENTENCES_MAX_NO_EMOTION",
+  "nodes": [
+    {"id": 0, "label": "Self", "role": "high_coherence_node"},
+    {"id": 1, "label": "Entity_1", "role": "FILL_ROLE"},
+    {"id": 2, "label": "Entity_2", "role": "FILL_ROLE_OR_NULL"}   // add more if needed, or delete
+  ],
+  "parameters": {
+    "M": 3,
+    "N": 3,
+    "agapi_priorities": [0.95, 0.00, 0.00],           // adjust only node 0 and others
+    "adjusted_panic": [0.05, 0.00, 0.00],             // scarcity / neurosis index
+    "edges": [[0,1], [0,2]],                          // parasitic / supportive links
+    "info_resources": 4,
+    "physical_weights": [1.0, 0.0, 0.0],              // resource initially tied to you = 1.0
+    "superconscious_input": 1.85,                     // strength of your final decision/prayer
+    "expected_mathematical_verdict": "FULL_SEVERANCE" // or RECLAIM / WITHDRAW / PROTECT
+  },
+  "real_world_outcome_executed": "FULL_SEVERANCE",
+  "date_range": "FILL_YEAR_MONTH_ONLY"               // e.g. "2018-2020"
+}
