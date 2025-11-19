@@ -1,0 +1,19 @@
+{
+  "id": "VECTOR_002",
+  "domain": "Family",
+  "neutral_description": "Long-term parasitic connection with two low-coherence entities exhibiting chronic guilt-implant and scarcity behavior. Full severance executed after final coherence threshold reached.",
+  "nodes": 3,
+  "edges": [[0,1],[0,2]],
+  "parameters": {
+    "M": 3,
+    "N": 3,
+    "agapi_priorities": [0.98, 0.01, 0.01],
+    "adjusted_panic": [0.04, 0.96, 0.93],
+    "info_resources": 5,
+    "physical_weights": [0.0, 0.0, 1.0],
+    "superconscious_input": 1.99,
+    "expected_mathematical_verdict": "FULL_SEVERANCE_NO_CONTACT"
+  },
+  "real_world_outcome_executed": "FULL_SEVERANCE_NO_CONTACT",
+  "date_range": "2015-2021"
+}
