@@ -20,3 +20,7 @@ GitHub: https://github.com/marunigno-ship-it (main repo: QERRA-v2)
 Contact: DM @marunigno for targeted collaboration.
 
 One accurate step at a time.
+
+## Evolution to Later Vectors
+- PEMEV-11 (Planetary): https://github.com/marunigno-ship-it/qerra-pemev11
+- SEMEV-12 (Stellar): https://github.com/marunigno-ship-it/Stellar-Energy-Mastery-Ethical-Vector-12
