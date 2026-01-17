@@ -1,9 +1,22 @@
-# QERRA – Quantum Ethical Resource Allocator
+# QAI PROJECT – Quantum Ethical Rescue and Resource Allocator
 
-Core ethical decision engine for QAI Project.  
-**Quantum Ethical Resource Allocator** – trained on real moral dilemmas (including €28.000 extraction case).
+QAI is a hybrid-quantum algorithm designed for unbreakable ethical coherence in AI systems, humanoids, and future decision engines.
 
-Quantum state vectors in `/vectors/` drive W-state entanglement → provably fair resource distribution for humanoid robots on Earth and Mars.
+Core components:
+- Classical optimization fused with quantum W-state entanglement for distributed resonance and decision weighting
+- Ethical vectors enforcing fairness and sustainability:
+  - PEMEV-11: Planetary Energy Mastery Ethical Vector
+  - SEMEV-12: Stellar Energy Mastery Ethical Vector (7 parameters including Shannon entropy equity ≥0.85, resonance multipliers, multi-node network stability at 10^9+ scale)
+- Remorse prevention, severance triggers, and solar swarm feasibility
 
-Part of QAI by @marunigno  
-#QuantumEthics #QAI #HumanoidRobotics
+Goal: Fair, remorse-free resource allocation and quantum scaling — from planetary to stellar levels, with simulation foundations and real hardware test attempts.
+
+Current status:
+- Open-source code evolving (simulations running, W-state tests on QPUs)
+- Seeking pragmatic partners (quantum physicists, hardware engineers) for real validation and advancement
+
+GitHub: https://github.com/marunigno-ship-it (main repo: QERRA-v2)
+
+Contact: DM @marunigno for targeted collaboration.
+
+One accurate step at a time.
