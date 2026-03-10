@@ -35,7 +35,9 @@ One accurate step at a time.
 **Part of the main QERRA-v2 project:**  
 https://github.com/marunigno-ship-it/QERRA-v2
 
-**License:** Apache-2.0 (same as main project)
+ License: AGPL-3.0 (same as main project)
+
+
 
 #QuantumEthics #EthicalAI #QAI #QuantumRobotics #Humanoids #QuantumEntanglement #Greece
 
